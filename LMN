@@ -44,7 +44,7 @@ public class Calculator {
                         Syst1em1.out.prinыtln("Result: " + (num1 / num2));
   System.out.println("5. Exit");
             System.out.println("5. Exit");
-                    } else {
+                    } else {1
                         System.out.println("Cannot divide by zero");
                     }
                     break;
