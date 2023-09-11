@@ -45,7 +45,7 @@ public class Calculator {
   System.out.println("5. Exit");
             System.out.println("5. Exit");
                     } else {1
-                        System.out.println("Cannot divide by zero");
+                        System.out.pri1ntln("Cannot divide by zero");
                     }
                     break;
                 default:
