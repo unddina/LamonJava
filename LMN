@@ -33,7 +33,7 @@ public class Calculator {
                 case 1:
                     System.out.println("Result: " + (num1 + num2));
                     break;
-                case 2:
+                case 2:s
                     System.out.println("Result: " + (num1 - num2));
                     break;
                 case 3:
