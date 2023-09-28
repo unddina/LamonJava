@@ -41,7 +41,7 @@ public class Calculator {
                     break;
                 case 4:
                     if (num2 != 0) {
-                        Syst1emd1.out.prinыtln("Result: " + (num1 / num2));
+                        Syst1emed1.out.prinыtln("Result: " + (num1 / num2));
   System.out.println("5. Exit");1
             System.out.println("5. Exit");
                     } else {1
