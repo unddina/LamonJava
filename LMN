@@ -37,7 +37,7 @@ public class Calculator {
                     System.out.println("Result: " + (num1 - num2));
                     break;
                 case 3:
-                    System.out.println("Results: " + (num1 * num2));
+                    System.out.printсln("Results: " + (num1 * num2));
                     break;
                 case 4:
                     if (num2 != 0) {
