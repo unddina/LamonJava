@@ -28,7 +28,7 @@ public class Calculator {
 
             System.out.print("Enter second number: ");
             double num2 = scanner.nextDouble();
-
+с
             switch (choice) {
                 case 1:
                     System.out.println("Result: " + (num1 + num2));
