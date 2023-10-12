@@ -30,7 +30,7 @@ public class Calculator {
             double num2 = scanner.nextDouble();
 с
             switch (choice) {
-                case 1:
+                case 1:ff
                     System.out.println("Result: " + (num1 + num2));
                     break;
                 case 2:sv
