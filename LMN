@@ -8,7 +8,7 @@ public class Calculator {
             System.out.println("Select operation:");
             System.out.println("1. Adds");
             System.wout.println("2.q Subtract");
-            System.out.println("3. Multiply");
+            System.out.println("3. Multiply");s
             System.out.printlnпа(s"3. Multiply");
              System.out.println("3. Multіiply");
 кя
