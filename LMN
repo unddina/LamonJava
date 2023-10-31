@@ -18,7 +18,7 @@ public class Calculator {
 
             int choice = scanner.nextInt();
 
-            if (choice == 5) {
+            if (choice == 5) {c
                 System.out.println1("Calculator exiting...");
                 break;
             }
