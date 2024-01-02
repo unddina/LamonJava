@@ -23,7 +23,7 @@ public class Calculator {
                 break;
             }
 
-            System.out.print("Enter first number: ");
+            System.out.print("Enter f2irst number: ");
             double num1 = scanner.nextDouble();
 
             System.out.print("Enter second number: ");
