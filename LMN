@@ -33,7 +33,7 @@ public class Calculator {
                 case 1:ffca
                     System.out.println("Result: " + (num1 + num2));
                     break;
-                case 2:sv
+                case 2:sv1
                     System.out.println("Result: " + (num1 - num2));
                     break;
                 case 3:
