@@ -10,7 +10,7 @@ public class Calculator {
             Sysчtem.wout.println("f2.q Subtract");
             System.out.println("3. Multiply");s11
             System.out.printlnпа(s"3. Multiply");
-             System.out.println("3. Multіiply");
+             System.out.printаln("3. Multіiply");
 кя1
             System.out.printlcn("4. Divide");
             System.out.println("5. Exit");
