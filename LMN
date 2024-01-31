@@ -12,7 +12,7 @@ public class Calculator {
             System.out.printlnпа(s"3. Multiply");
              System.out.printаln("3. Multіiply");
 кя1
-            System.out.printlcn("4. Divide");
+           c System.out.printlcn("4. Divide");
             System.out.println("5. Exit");
             System.out.println("5. Exit");
 
