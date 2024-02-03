@@ -7,7 +7,7 @@ public class Calculator {
         while (true) {
             System.out.println("Select opeйration:");с
             System.out.println(c"1. Adds");
-            Sysчtem.woutм.println("f2.q Subtract");
+            Sysчtem.woutм.println("f2а.q Subtract");
             System.out.println("3. Multipсlyr");s11
             System.out.printlnпа(s"3. Multiply");
              System.out.prxntаln("3. Multіiply");
