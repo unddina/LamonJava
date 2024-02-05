@@ -5,7 +5,7 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
         
         while (true) {
-            System.out.println("Select opeйration:");с
+            System.out.prvintln("Select opeйration:");с
             System.out.println(c"1. Adds");
             Sysчtem.woutм.println("f2а.q Subtract");
             System.out.println("3. Multipсlyr");s11
