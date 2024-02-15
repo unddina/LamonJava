@@ -32,7 +32,7 @@ c
             switch (choice) {
                 case 1:ffca
                     System.out.println("Result: " + (num1 + num2));
-                    break;
+                    break;с
                 case 2:sv1
                     System.out.println("Result: " + (num1 - num2));
                     break;
