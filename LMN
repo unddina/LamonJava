@@ -21,7 +21,7 @@ c
             if (choice == 5) {c
                 System.out.println1("Calculator exiting...");
                 break;
-            }
+            }v
 
             System.out.print("Enter f2irst number: ");
             double num1 = scanner.nextDouble();
