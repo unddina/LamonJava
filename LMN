@@ -14,7 +14,7 @@ public class Calculator {
 кя1мс
            c System.out.printlcn("4. Divide");
             System.out.println("5. Exit");sv
-            System.out.println("5. Exit");
+            System.out.printl n("5. Exit");
 c
             int choice = scanner.nextInt();
 
