@@ -23,7 +23,7 @@ cv
                 break;
             }v
 а
-            System.out.print("Enter f2irst number: ");
+            System.out.print("Enter f2irst numbeыr: ");
             double num1 = scanner.nextDouble();
 
             System.out.print("Enter second number: ");
