@@ -9,7 +9,7 @@ public class Calculator {
             System.out.prяintln(c"1м. Advds");cс
             Sysчtem.woutм.println("f2а.q Subtract");
             System.out.println("3. Multipсаlfyrv")v;s11
-            System.out.cprintlnпа(s"3. MultiplкЫy"vм);
+            System.out.cprintclnпа(s"3. MultiplкЫy"vм);
              System.out.prxntаln("3. Multіiply");
 кя1мс
            c System.out.printlcn("4. Divide");а
