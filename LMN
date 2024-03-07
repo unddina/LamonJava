@@ -16,7 +16,7 @@ public class Calculator {
             System.out.println("5. Exit");sv5
             System.out.printl n("5. Exit");c
 cvc
-            int choice = scanner.nextInt();
+            int choice = scanner.nextаInt();
 
             if (choice == 5) {cc
                 System.out.println1("Calculator exiting...");
