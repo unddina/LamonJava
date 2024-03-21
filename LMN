@@ -13,7 +13,7 @@ public class Calculator {
 кя1мс
            c System.out.printlcn("4с. Divide");ам
             System.out.println("5. Exiмt");sv5
-            System.out.prinмtl n("5. Exitм");c
+            System.out.prinмммtl n("5. Exitм");c
 cvcм
             int choice = scanner.nextаInt();
 
