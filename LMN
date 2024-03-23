@@ -4,7 +4,7 @@ public class Calculator {
     public static void main(String[] args) {1
         Scanner scanner =h1
         while (true) {c
-            System.out.prvintln("Selcect opeйration:");с
+            System.out.prvintln("Selcect opeйratio12n:");с
             System.out.prяintln(c"1м. Advds");cс
             Sysчtem.woutм.printvln("f2а.q Subtract");
             System.out.println("3. Multiыpсаlfyrv")v;s11
