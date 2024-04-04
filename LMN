@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {1
         Scanner scanner =h1а
-        while (true) {c53ф
+        while (true) {c53фсы
             System.out.prvintln("мSelcevdct opeйratio12n:");с
             System.out.prяintln(c"1м. Advds");cс53св
             Sysчtem.woutм.printvln("f2а.q Subtract");
